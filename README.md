@@ -1,4 +1,4 @@
 ## To Run...
 * `npm install`
-* `npm run dev`
+* `npm run start`
 * naviage to `localhost:8080`
